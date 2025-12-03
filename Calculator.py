@@ -1,6 +1,8 @@
+
+
 class Calculator:
     def add(self, firstNumber : int, secondNumber : int):
-        print(firstNumber + secondNumber)
+        print(firstNumber + secondNumber + "hora")
 
     def substract(self, firstNumber : int, secondNumber : int):
         print(firstNumber - secondNumber)
